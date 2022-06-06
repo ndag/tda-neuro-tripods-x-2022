@@ -39,7 +39,7 @@ Figure 1. A filtration on a neuroscience dataset. From https://www.ncbi.nlm.nih.
 JavaPlex must be installed, and students should start running the tutorial before the first day of class. The main interface for JavaPlex is Matlab. The JavaPlex software can be found at [JavaPlex link](http://appliedtopology.github.io/javaplex/). The tutorial can be found at [JavaPlex tutorial](https://github.com/appliedtopology/javaplex/wiki/Tutorial). Matlab can be downloaded from [Matlab website](https://www.mathworks.com/products/matlab.html).
 
 ## Schedule:
-For more detail on what will be discussed in each lecture or recitation, see the syllabus (link). Here we list dates and main topic of each lecture and recitation, as well as provide links to the class materials after class has been held that day.
+For more detail on what will be discussed in each lecture or recitation, see the syllabus (link). Here we list dates and main topic of each lecture and recitation, due dates for exercises and project updates, as well as provide links to the class materials after class has been held each day.
 
 To be filled in once dates have been finalized.
 
