@@ -43,7 +43,7 @@ For more detail on what will be discussed in each lecture or recitation, see the
 
 
 - Week 1:
-  - Introduction: https://youtu.be/Jn0ajk6Gh1Y
+  - Personal Introduction: https://youtu.be/Jn0ajk6Gh1Y
   - Lecture part 1, course overview: https://youtu.be/Z_M8R88wjCo
   - Lecture part 2, intro to topology: https://youtu.be/HDXfM17acxE
   - Recitation:
