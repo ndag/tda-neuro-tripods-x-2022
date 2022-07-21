@@ -41,14 +41,16 @@ JavaPlex must be installed, and students should start running the tutorial befor
 ## Schedule:
 For more detail on what will be discussed in each lecture or recitation, see the syllabus (link). Here we list dates and main topic of each lecture and recitation, due dates for exercises and project updates, as well as provide links to the class materials after class has been held each day.
 
-To be filled in once dates have been finalized.
 
 - Week 1:
-  - Lecture:
+  - Introduction: https://youtu.be/Jn0ajk6Gh1Y
+  - Lecture part 1, course overview: https://youtu.be/Z_M8R88wjCo
+  - Lecture part 2, intro to topology: https://youtu.be/HDXfM17acxE
   - Recitation:
 
 - Week 2:
-  - Lecture:
+  - Lecture part 1, topological spaces: https://youtu.be/YO02rY5frYE
+  - Lecture part 2, continuous maps: https://youtu.be/cxw91eOG0g0
   - Recitation:
 
 - Week 3:
