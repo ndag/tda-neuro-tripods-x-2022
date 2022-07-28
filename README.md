@@ -46,12 +46,14 @@ For more detail on what will be discussed in each lecture or recitation, see the
   - Personal Introduction: https://youtu.be/Jn0ajk6Gh1Y
   - Lecture part 1, course overview: https://youtu.be/Z_M8R88wjCo
   - Lecture part 2, intro to topology: https://youtu.be/HDXfM17acxE
-  - Recitation:
+  - Recitation part 1, linear algebra review: https://youtu.be/KAVYZ1CTbRo
+  - Recitation part 2, basic linear algebra in MATLAB: https://youtu.be/IkSVOSWo2bc
 
 - Week 2:
   - Lecture part 1, topological spaces: https://youtu.be/YO02rY5frYE
   - Lecture part 2, continuous maps: https://youtu.be/cxw91eOG0g0
-  - Recitation:
+  - Recitation part 1, intro to metric spaces: https://youtu.be/aHn68Xir1o0
+  - Recitation part 2, metric spaces in practice: https://youtu.be/7YW0224dgEk
 
 - Week 3:
   - Lecture:
