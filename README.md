@@ -43,7 +43,7 @@ For more detail on what will be discussed in each lecture or recitation, see the
 
 
 - Week 1:
-  - Personal Introduction: https://youtu.be/Jn0ajk6Gh1Y
+  - Meet Alex and Nate: https://youtu.be/4YcM8oXAm28
   - Lecture part 1, course overview: https://youtu.be/Z_M8R88wjCo
   - Lecture part 2, intro to topology: https://youtu.be/HDXfM17acxE
   - Recitation part 1, linear algebra review: https://youtu.be/KAVYZ1CTbRo
@@ -54,9 +54,12 @@ For more detail on what will be discussed in each lecture or recitation, see the
   - Lecture part 2, continuous maps: https://youtu.be/cxw91eOG0g0
   - Recitation part 1, intro to metric spaces: https://youtu.be/aHn68Xir1o0
   - Recitation part 2, metric spaces in practice: https://youtu.be/7YW0224dgEk
+  - Project part 1, single linkage clustering: https://youtu.be/p4-nKnKKKlM
 
 - Week 3:
-  - Lecture:
+  - Lecture Part 1, simplicial complexes: https://youtu.be/jR5OR05xYDY
+  - Lecture Part 2, simplicial maps: https://youtu.be/3YdbBVeBN3c
+  - Lecture Part 3, Rips and Cech complexes: https://youtu.be/_-lE35xgV4o
   - Recitation:
 
 - Week 4:
