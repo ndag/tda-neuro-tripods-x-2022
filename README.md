@@ -46,8 +46,10 @@ For more detail on what will be discussed in each lecture or recitation, see the
   - Meet Alex and Nate: https://youtu.be/4YcM8oXAm28
   - Lecture part 1, course overview: https://youtu.be/Z_M8R88wjCo
   - Lecture part 2, intro to topology: https://youtu.be/HDXfM17acxE
-  - Recitation part 1, linear algebra review: https://youtu.be/KAVYZ1CTbRo
-  - Recitation part 2, basic linear algebra in MATLAB: https://youtu.be/IkSVOSWo2bc
+  - Recitation part 1, vector spaces review: https://youtu.be/Bydx9K4u0eM
+  - Recitation part 2, linear transformations review: https://youtu.be/-TKGsCTiZ0w
+  - Recitation part 3, quotient spaces review: https://youtu.be/49mO-6hbUkQ
+  - Recitation part 4, basic linear algebra in MATLAB: https://youtu.be/IkSVOSWo2bc
 
 - Week 2:
   - Lecture part 1, topological spaces: https://youtu.be/YO02rY5frYE
