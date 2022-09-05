@@ -62,7 +62,8 @@ For more detail on what will be discussed in each lecture or recitation, see the
   - Lecture Part 1, simplicial complexes: https://youtu.be/jR5OR05xYDY
   - Lecture Part 2, simplicial maps: https://youtu.be/3YdbBVeBN3c
   - Lecture Part 3, Rips and Cech complexes: https://youtu.be/_-lE35xgV4o
-  - Recitation:
+  - Recitation part 1, simplicial complexes and examples: https://youtu.be/nvpN_w4pK3E
+  - Recitation part 2, Intro to JavaPlex and simplicial complexes in MATLAB: https://youtu.be/nvpN_w4pK3E
 
 - Week 4:
   - Lecture:
