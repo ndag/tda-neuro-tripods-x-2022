@@ -67,7 +67,9 @@ For more detail on what will be discussed in each lecture or recitation, see the
 
 - Week 4:
   - Lecture:
-  - Recitation:
+  - Recitation part 1, simplicial homology review and examples: https://youtu.be/6_rQQY62Cxo
+  - Recitation part 2, simplicial homology with different coefficients: https://youtu.be/7P8Tg1T28EA
+  - Recitation part 3, simplicial homology in JavaPlex: https://youtu.be/CkiolQfFBf4
 
 - Week 5:
   - Lecture:
